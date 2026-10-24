@@ -1,7 +1,7 @@
 # CPU Scheduling Simulator & Visualizer 
 
 ## 📌 Project Overview
-This project is a **Web-Based RTOS Scheduling Simulator** developed using **Python and Flask**.  
+This project is a **CPU Scheduling Simulator & Visualizer** developed using **Python and Flask**.  
 It simulates how an operating system schedules processes using different **CPU scheduling algorithms**, tracks process state transitions, and calculates performance metrics.
 
 The system allows users to manually define processes, select a scheduling algorithm, and observe execution timelines, system performance, and simulated RTOS monitoring data.

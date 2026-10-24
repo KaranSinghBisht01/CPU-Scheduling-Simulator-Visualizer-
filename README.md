@@ -1,4 +1,4 @@
-# RTOS Scheduling Simulator (Web-Based)
+# CPU Scheduling Simulator & Visualizer 
 
 ## 📌 Project Overview
 This project is a **Web-Based RTOS Scheduling Simulator** developed using **Python and Flask**.  
